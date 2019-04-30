@@ -1,7 +1,8 @@
 ![OpenUI5 logo](http://openui5.org/images/OpenUI5_new_big_side.png)
 
-# openui5-sample-app
-> [OpenUI5](https://github.com/SAP/openui5) sample app using the [UI5 Tooling](https://github.com/SAP/ui5-tooling).
+# openui5-sample-js-app
+> [OpenUI5](https://github.com/SAP/openui5) sample app using the [UI5 Tooling](https://github.com/SAP/ui5-tooling) with JS Viewes enabled.
+ (**Note:**This has been extended from the original sample [openui5-sample-app](https://github.com/SAP/openui5-sample-app.git))
 
 ## Prerequisites
 - The **UI5 CLI** of the [UI5 Tooling](https://github.com/SAP/ui5-tooling#installing-the-ui5-cli).
@@ -10,8 +11,8 @@
 ## Getting started
 1. Clone this repository and navigate into it
     ```sh
-    git clone https://github.com/SAP/openui5-sample-app.git
-    cd openui5-sample-app
+    git clone https://github.com/shailenk/openui5-sample-js-app.git
+    cd openui5-sample-js-app
     ```
 1. Install all dependencies
     ```sh
